@@ -1,0 +1,47 @@
+.headers{
+    margin-left: 15%; 
+    margin-right: 15%;
+    background-color: #321fdb;
+}
+
+
+#login-part{
+    background-color:white;
+    border-radius: 40px;
+    
+}
+
+
+.login-area{
+    padding: 40px;
+    
+}
+
+.forgetpass{
+    color: blue;
+    font-weight: 800;
+}
+
+.white-color{
+    color: white;
+}
+
+.fa-arrow-circle-right{
+    color: white;
+    
+    
+}
+
+.footers{
+    margin-left: 10%; 
+    margin-right: 10%;
+    background-color: #16098a;
+}
+
+.mainpart{
+    margin-bottom: 250px;
+}
+
+
+
+
